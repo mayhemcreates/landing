@@ -1,0 +1,19 @@
+.container{
+  margin: auto auto;
+  color: white;
+
+}
+
+.container a{
+  padding: 16px 40px;
+  background-color:#5C6F75;
+  border-radius: 30px;
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+  margin-top: 50px;
+}
+
+.banner .container{
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.5)
+}

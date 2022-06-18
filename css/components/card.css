@@ -1,0 +1,53 @@
+.cards{
+  padding: 0 150px;
+  display: flex;
+  color: black;
+  justify-items:center;
+  align-items: center;
+}
+
+.card-course-description{
+  width: 300px;
+  height: auto;
+  margin: 40px auto;
+  box-shadow: 3px 3px 5px rgba(0,0,0,0.2);
+}
+
+.card-course-description img{
+  width: 300px;
+  height: 200px;
+  object-fit:cover;
+  object-position: 0 16%;
+}
+
+.card-course-description img .cat-1 {
+  object-position:top;
+}
+
+.card-course-description h2{
+  font-size: 18px;
+}
+
+.card-course-description p{
+  font-size: 18px;
+  opacity: 0.6;
+}
+
+.card-course-description-detail{
+  padding: 20px;
+}
+
+.card-trip-description img{
+width: 40px;
+height: 40px;
+border-radius: 50%;
+position:absolute;
+bottom: 100px;
+right: 20px;
+border: 2px solid white;
+}
+
+.cards-section{
+  color:black;
+  text-align: center;
+}

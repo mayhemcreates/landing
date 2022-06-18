@@ -1,0 +1,11 @@
+.banner{
+  height: 95vh;
+  display: flex;
+  background-image:url('/landing/images/lloyd-henneman-mBRfYA0dYYE-unsplash.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.banner p {
+background-color: rgba(0,0,0,0.2);
+}
